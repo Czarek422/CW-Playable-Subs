@@ -62,6 +62,7 @@
   * Virginia Class SSN
   * Improved Virginia Class SSN
   * Stingray Class SS
+  * Ohio Class SSBN
   * Ohio Class SSGN (Conversion)
   * Ethan Allen Class SSBN
   * Washington Class SSBN
@@ -74,6 +75,7 @@
   * Vanguard Class SSBN
   * Oberon Class SS
   * Resolution Class SSBN
+  * Churchill Class SSN
 
 * **Australia**
   * Collins Class SS
@@ -95,6 +97,15 @@
 * **Netherlands**
   * Walrus Class SS
 
+* **Norway**
+  * Ula Class SS
+  
+* **Spain**
+  * Galerna Class SS
+  
+* **Multi**
+  * Scorpène Class SS
+
 * **China (PLAN)**
   * Han Class SSN
   * Shang Class SSN
@@ -105,11 +116,15 @@
   * Song Class SS
   * Xia Class SSBN
 
+* **Republic of China (ROCN)**
+  * Hai Lung Class SS
+
 * **Vietnam**
   * Kilo Class SS
 
 * **North Korea**
   * Romeo Class SS
+  * Sinpo Class SSB
 
 * **Japan**
   * Yushio Class SS
@@ -124,6 +139,7 @@
   * November Class SSN
   * November II Class SSN
   * Sierra Class SSN
+  * Sierra II Class SSN
   * Victor I Class SSN
   * Victor II Class SSN
   * Victor III Class SSN
